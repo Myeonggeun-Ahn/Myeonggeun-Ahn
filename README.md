@@ -1,5 +1,4 @@
-## Hi there 👋
-
+👋 Hello, I'm Myeonggeun Ahn.
 <!--
 **Myeonggeun-Ahn/Myeonggeun-Ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
